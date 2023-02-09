@@ -1,0 +1,131 @@
+body{
+  background-image: url(images\ \(1\).jpg);
+}
+.name1{height: 100%;
+  width: 100%;
+  background-image: url(my\ photo.jpg);
+  background-size: cover;
+  background-position: center;
+}
+nav ul li{
+  list-style-type: none;
+  display: inline-block;
+  background-color: chocolate;
+  padding: 10px 30px;
+}
+nav ul li a{
+  display: inline-block;
+  color: black;
+  font-style: bold;
+  text-transform: capitalize;
+background-color: chocolate;
+}
+.me img{
+  width: 100%;
+  height: auto;
+  background-image: url(my\ photo.jpg);
+}
+h1{display: block;
+  text-align: center;
+  padding: 1%;
+  background-color: burlywood;
+  margin: 1px 0px 1px;
+  font-size: xx-large;
+}
+h2{display: block;
+  color:white;
+  text-align: center;
+  margin: 0px;
+  margin-bottom: 50px;
+  font-size: xx-large;
+}
+.sect1{color: white;
+  width: 1500px;
+  max-width: 95%;
+  font-size: 150%;
+  margin: 0 auto;
+  padding: 100px 0px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.sect1 h2{text-align: center;
+}
+.sect2 h3{text-align: right bold;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: x-large;
+  border-radius: 5;
+  border-color: blanchedalmond;
+  display: block;
+}
+
+.sect2{color: bisque;
+  width: 1500px;
+  max-width: 95%;
+  font-size: 150%;
+  margin: 0 auto;
+  padding: 100px 0px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.sect1{color: white;
+  width: 1500px;
+  max-width: 95%;
+  font-size: 150%;
+  margin: 0 auto;
+  padding: 100px 0px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.sect3{color: white;
+  width: 1500px;
+  max-width: 95%;
+  font-size: 150%;
+  margin: 0 auto;
+  padding: 100px 0px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.sect4{color: white;
+  width: 1500px;
+  max-width: 95%;
+  font-size: 150%;
+  margin: 0 auto;
+  padding: 100px 0px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.sect5{color: white;
+  width: 1500px;
+  max-width: 95%;
+  font-size: 150%;
+  margin: 0 auto;
+  padding: 100px 0px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.sect6{color: white;
+  width: 1500px;
+  max-width: 95%;
+  font-size: 150%;
+  margin: 0 auto;
+  padding: 100px 0px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+input{border-radius: 5px solid double
+  ;
+
+}
